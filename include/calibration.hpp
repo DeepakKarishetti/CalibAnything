@@ -9,6 +9,7 @@
 #include "logging.hpp"
 #include "utility.hpp"
 #include "dataloader.hpp"
+#include <random>
 
 struct PointXYZINS
 {
